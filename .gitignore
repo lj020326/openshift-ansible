@@ -26,3 +26,5 @@ multi_ec2.yaml
 cover/
 *.tfstate
 *.tfstate.backup
+
+venv/
